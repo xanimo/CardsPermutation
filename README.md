@@ -1,4 +1,6 @@
-﻿![CardsPermutation](https://raw.githubusercontent.com/xanimo/images/master/logo.png?token=AHTBONAJ6MJ3U7ZT32YFAZK7NZOV6)
+* *Please note there's an issue running the repl.it on mobile phones.  If interested in playing with the repl.it please do it on a computer*
+
+![CardsPermutation](https://raw.githubusercontent.com/xanimo/images/master/logo.png?token=AHTBONAJ6MJ3U7ZT32YFAZK7NZOV6)
 
 # Cards Permutation
 <a href="https://www.hackerrank.com/challenges/cards-permutation" target="_blank"><img src="https://raw.githubusercontent.com/xanimo/images/master/CardsPermutationRank.png?token=AHTBONEMPAGKWXOLLAA3R327OUDFA" alt="first ever fully accepted solution to this problem written in javascript!"></a>
